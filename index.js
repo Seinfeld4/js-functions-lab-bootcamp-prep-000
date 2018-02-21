@@ -8,5 +8,5 @@ function happyHolidaysTo(firstName) {
 }
 
 function happyHolidaysTo(holidayName,firstName) {
-  return `Happy holidays, ${firstName}!`
+  return `Happy ${holidayName}, ${firstName}!`
 }
